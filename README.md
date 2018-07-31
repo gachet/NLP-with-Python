@@ -4,6 +4,10 @@ Experimenting with Natural Language Processing with Python using NLTK. They're b
 
 ## Experiments
 1. NLP Core
+  - [Tokenizing words and sentences]()
+  - [Stemming the words]()
+  - [Lemmatization of words]()
+  - [Stopwords removal]()
 2. Text Classification
 3. Twitter Sentiment Analysis
 4. Text Summarization
