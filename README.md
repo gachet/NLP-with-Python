@@ -9,6 +9,8 @@ Experimenting with Natural Language Processing with Python using NLTK. They're b
     - [Lemmatization of words](NLP%20Core/Lemmatization%20of%20words.ipynb)
     - [Stopwords removal](NLP%20Core/Stopwords%20removal.ipynb)
     - [Parts of Speech tagging](NLP%20Core/Parts%20of%20Speech%20tagging.ipynb)
+    - [Creating Bag of Words model](NLP%20Core/Bag%20of%20Words%20model.ipynb)
+    - [Creating TF-IDF model](NLP%20Core/TF-IDF%20model.ipynb)
 2. Text Classification
 3. Twitter Sentiment Analysis
 4. Text Summarization
