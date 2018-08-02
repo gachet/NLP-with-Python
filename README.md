@@ -12,6 +12,7 @@ Experimenting with Natural Language Processing with Python using NLTK. They're b
     - [Named Entity recognition](NLP%20Core/Named%20Entity%20Recognition.ipynb)
     - [Creating Bag of Words model](NLP%20Core/Bag%20of%20Words%20model.ipynb)
     - [Creating TF-IDF model](NLP%20Core/TF-IDF%20model.ipynb)
+    - [Creating N-Gram model](NLP%20Core/N-Gram%20model.ipynb)
 2. Text Classification
 3. Twitter Sentiment Analysis
 4. Text Summarization
