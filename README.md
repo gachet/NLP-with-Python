@@ -13,6 +13,7 @@ Experimenting with Natural Language Processing with Python using NLTK. They're b
     - [Creating Bag of Words model](NLP%20Core/Bag%20of%20Words%20model.ipynb)
     - [Creating TF-IDF model](NLP%20Core/TF-IDF%20model.ipynb)
     - [Creating N-Gram model](NLP%20Core/N-Gram%20model.ipynb)
+    - [Latent Semantic Analysis](NLP%20Core/Latent%20Semantic%20Analysis.ipynb)
 2. Text Classification
 3. Twitter Sentiment Analysis
 4. Text Summarization
