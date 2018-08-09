@@ -22,3 +22,4 @@ Experimenting with Natural Language Processing with Python using NLTK. They're b
     - [Importing and using model](Text%20Classification/Testing%20classifier%20and%20model.ipynb)
 3. Twitter Sentiment Analysis
 4. Text Summarization
+5. Word2Vec analysis
