@@ -17,5 +17,8 @@ Experimenting with Natural Language Processing with Python using NLTK. They're b
     - [Finding Synonyms and Antonyms](NLP%20Core/Finding%20Synonyms%20and%20Antonyms.ipynb)
     - [Word negation tracking](NLP%20Core/Word%20Negation%20Tracking.ipynb)
 2. Text Classification
+    - [Reviews classification](Text%20Classification/Reviews%20Classification.ipynb)
+    - [Saving classifier and model](Text%20Classification/Saving%20classifier%20and%20model.ipynb)
+    - [Importing and using model](Text%20Classification/Testing%20classifier%20and%20model.ipynb)
 3. Twitter Sentiment Analysis
 4. Text Summarization
