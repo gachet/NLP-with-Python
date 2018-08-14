@@ -25,5 +25,5 @@ Experimenting with Natural Language Processing with Python using NLTK. They're b
 4. Text Summarization
     - [Text summarization of 'Natural language processing' wikipedia page](Text%20Summarization/Text%20Summarization.ipynb)
 5. Word2Vec analysis
-    - [Trainiong and testing Word2Vec](Training%20and%20Testing%20Word2vec%20Model.ipynb)
+    - [Trainiong and testing Word2Vec](Word2Vec/Training%20and%20Testing%20Word2vec%20Model.ipynb)
     - Using Pretrained model
